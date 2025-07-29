@@ -5,7 +5,7 @@ This file compiles the most effective and trusted resources to learn **Operating
 ---
 
 ## 📌 Table of Contents
-- [📚 Core OS Theory](#-core-os-theory)
+- [📚 Core OS Theory](#-core-os-theory) (If you are confused what to do, just start with this only(this is enough))
 - [📖 Books & Lecture Notes](#-books--lecture-notes)
 - [🛠️ Systems Programming & Makefile](#-️systems-programming--makefile)
 - [🎥 YouTube Playlists](#-youtube-playlists)
