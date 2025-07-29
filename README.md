@@ -16,6 +16,14 @@
 
 ---
 
+## 🏫 Sem 3 in short
+
+OS ~ follow Three Easy Pieces, more than enough
+AP ~ easy peasy, OOPS concepts, and project (mp game) using java
+M3 ~ follow lecture notes and tutorials (PYQs, Quizzes too for practice before any test)
+RMSSD ~ go with the flow
+---
+
 ## 🌟 Star the Repo
 
 If you find this repository useful, consider giving it a ⭐ to help others discover it too.
